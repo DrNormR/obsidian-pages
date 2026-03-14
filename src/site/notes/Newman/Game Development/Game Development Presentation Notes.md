@@ -11,7 +11,7 @@ __Tags:__ #notes #gamedevelopment
 ## 🗒️Notes:
 
 ![Pasted image 20260308104850.png](/img/user/Newman/Game%20Development/~media/Pasted%20image%2020260308104850.png)
-- ==Who knows who this guy is?==
+- ==Who knows who this guy is?==????
 - Who knows what these little squares are called?
 	- And why did they make art with these? Why not just draw straight lines?
 - How many people play mobile games?
@@ -23,7 +23,7 @@ __Tags:__ #notes #gamedevelopment
 | **Music (recorded music only)** | $28.6B                          | IFPI 2023 global recorded music trade revenue    |
 |                                 |                                 |                                                  |
 
-![[Pasted image 20260308105747.png]]
+![[Pasted image 20260308105747.png\|Pasted image 20260308105747.png]]
 - Picture it: the year is 1989. I'm in 4th grade. For my birthday, I get this game
 	- And I'm obsessed with it for the rest of my life
 	- Flash forward 10 years, and I have a computer and I want to make improvements to this game
@@ -42,17 +42,17 @@ __Tags:__ #notes #gamedevelopment
 ![[Pasted image 20260308104936.png\|Pasted image 20260308104936.png]]
 - Notice this word "vanilla"--that just means unmodded
 - 
-![[Pasted image 20260308110035.png]]
+![[Pasted image 20260308110035.png\|Pasted image 20260308110035.png]]
 - **A lot of game designers start by making levels** before they ever write code. Levels are “the playground” of a game 🏟️    
 - **Watching someone else play your level teaches you a lot.** If everyone gets stuck at the same jump… that jump might be unfair 😅    
 - **Games with creators can last forever** because players keep making new content 🔥    
 - **“Creator mode” games turn imagination into something other people can actually experience.** That’s powerful 🧠➡️🌍
 
-![[Pasted image 20260308104946.png]]
+![[Pasted image 20260308104946.png\|Pasted image 20260308104946.png]]
 - each one of these is a job
 	- multiple jobs in fact! the bigger the game, the more of these jobs there are
 
-![[Pasted image 20260308104957.png]]
+![[Pasted image 20260308104957.png\|Pasted image 20260308104957.png]]
 - Now thing about all the elements we talked about:
 - Level design
 	- how does this level work? 
@@ -74,7 +74,7 @@ __Tags:__ #notes #gamedevelopment
 	- the guy in the middle is probably the most famous game developer of all time
 	- the only one i recognize by sight
 
-![[Pasted image 20260308105012.png]]
+![[Pasted image 20260308105012.png\|Pasted image 20260308105012.png]]
 - So you've decided to make a game, right? Everyone has reached that decision?
 - So you have a choice to make--build your own engine or use one that exists
 - Two of the most popular are Unreal and Unity
@@ -83,7 +83,7 @@ __Tags:__ #notes #gamedevelopment
 	- You can try them out tonight on your computer
 	- In fact, do that. That's your homework. 
 
-![[Pasted image 20260308105026.png]]
+![[Pasted image 20260308105026.png\|Pasted image 20260308105026.png]]
 
 - Before we look at Unreal and Unity, I want you to think about a modern game and how complex they are
 - Anyone recognize this game?
@@ -96,26 +96,26 @@ __Tags:__ #notes #gamedevelopment
 	- music
 - So most of this stuff, you can accomplish with Unreal or Unity
 
-![[Pasted image 20260308110104.png]]
+![[Pasted image 20260308110104.png\|Pasted image 20260308110104.png]]
 Unreal Editor 
 - Viewport = the big window showing the world (what you’re building) 🎥
 - Assets = saved stuff like models, textures, sounds (assets = “game ingredients”) 🧱🎨🎵
 - Super detailed scene = lots of objects + lighting + materials (materials = what surfaces look like, like metal or wood) ✨
 
-![[Pasted image 20260308105104.png]]
+![[Pasted image 20260308105104.png\|Pasted image 20260308105104.png]]
 Unity Editor 
 - Scene/Game view = build mode vs play mode 🎥▶️
 - Hierarchy = a list of everything in the level (characters, lights, trees) 📋
 - Project/Assets = your files and game ingredients 🗂️
 - Code window = scripts (scripts = code instructions that tell objects what to do) 💻
 
-![[Pasted image 20260308110125.png]]
+![[Pasted image 20260308110125.png\|Pasted image 20260308110125.png]]
 
 
-![[Pasted image 20260308110135.png]]
+![[Pasted image 20260308110135.png\|Pasted image 20260308110135.png]]
 
 
-![[Pasted image 20260308105126.png]]
+![[Pasted image 20260308105126.png\|Pasted image 20260308105126.png]]
 
 
 ---
