@@ -14,8 +14,9 @@ Materials:
 - Notebook paper
 - Graph paper
 - Note cards
-- Pencils
-- Markers
+- Pencils (10)
+- Markers (4 packs)
+- Scissors (4)
 
 # 🗒️Notes - STEM exploration Camp
 
