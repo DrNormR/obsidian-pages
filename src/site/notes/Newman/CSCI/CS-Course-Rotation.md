@@ -5,13 +5,13 @@
 
 # Legend
 
-|Symbol|Meaning|
-|---|---|
-|Green|Courses I don't currently teach|
-|🆕|Planned to add to the schedule|
-|🔶|Mike Sullenger teaches?|
-|🖥️|Course is unique to CS; not part of BDA|
-|🧑‍🤝‍🧑|Course counts as 2 courses due to hybrid and online|
+| Symbol                             | Meaning                                             |
+| ---------------------------------- | --------------------------------------------------- |
+| <font color="#9bbb59">Green</font> | Courses I don't currently teach                     |
+| 🆕                                 | Planned to add to the schedule                      |
+| 🔶                                 | Mike Sullenger teaches?                             |
+| 🖥️                                | Course is unique to CS; not part of BDA             |
+| 🧑‍🤝‍🧑                           | Course counts as 2 courses due to hybrid and online |
 
 ---
 
