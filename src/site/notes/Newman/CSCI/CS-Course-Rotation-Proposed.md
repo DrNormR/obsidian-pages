@@ -4,25 +4,26 @@
 
 
 # Legend
-| Green    | Courses I don't currently teach                     |
-| -------- | --------------------------------------------------- |
-| 🆕       | Planned to add to the schedule                      |
-| 🔶       | Mike Sullenger teaches?                             |
-| 🖥️      | Course is unique to CS; not part of BDA             |
-| 🧑‍🤝‍🧑 | Course counts as 2 courses due to hybrid and online |
+| Symbol                             | Meaning                                             |
+| ---------------------------------- | --------------------------------------------------- |
+| <font color="#9bbb59">Green</font> | Courses I don't currently teach                     |
+| 🆕                                 | Planned to add to the schedule                      |
+| 🔶                                 | Mike Sullenger teaches?                             |
+| 🖥️                                | Course is unique to CS; not part of BDA             |
+| 🧑‍🤝‍🧑                           | Course counts as 2 courses due to hybrid and online |
 
 ---
 
 # **Fall Even Years** 🍂⭕
-| Course                                                     | Term    | Delivery   | Day/Time             |
-| ---------------------------------------------------------- | ------- | ---------- | -------------------- |
-| CS 2003 Principles                                         | 8w1     | Hybrid     | Tue Thu 9:25 AM      |
-| ==CS 3023 Database Design & SQL==                          | ==8w2== | ==Hybrid== | ==Tue Thu 10:50 AM== |
-| CS 4033 Information Security 🔶                            | 8w2     | Hybrid     | Tue Thu 9:25 AM      |
-| Data Programming 🧑‍🤝‍🧑                                  | 8w1     | Hybrid     | Tue 6 PM             |
-| <font color="#9bbb59">CS 4211 Computer Science Labs</font> | 8w2     | Online     | Online               |
-| <font color="#9bbb59">CS 3102 Data Analysis & Viz</font>   | —       | —          | —                    |
-|                                                            |         |            |                      |
+| Course                                                   | Term    | Delivery   | Day/Time             |
+| -------------------------------------------------------- | ------- | ---------- | -------------------- |
+| CS 2003 Principles                                       | 8w1     | Hybrid     | Tue Thu 9:25 AM      |
+| ==CS 3023 Database Design & SQL==                        | ==8w2== | ==Hybrid== | ==Tue Thu 10:50 AM== |
+| CS 4033 Information Security 🔶                          | 8w2     | Hybrid     | Tue Thu 9:25 AM      |
+| Data Programming 🧑‍🤝‍🧑                                | 8w1     | Hybrid     | Tue 6 PM             |
+| CS 4211 Computer Science Labs                            | 8w2     | Online     | Online               |
+| <font color="#9bbb59">CS 3102 Data Analysis & Viz</font> | —       | —          | —                    |
+|                                                          |         |            |                      |
 - adding CS 3023 could start Fall 2028
 
 ---
@@ -54,14 +55,14 @@
 ---
 
 # **Spring Even Years** 🌻⭕
-| Course                           | Term     | Delivery | Day/Time         |
-| -------------------------------- | -------- | -------- | ---------------- |
-| CS 2113 Programming 1 🆕         | 8 week 2 | Hybrid   | Tue Thu 9:25 AM  |
-| CS 3323 Cloud Computing          | 8 week 1 | Hybrid   | Tue Thu 9:25 AM  |
-| CS 4413 Systems Analysis         | 8 week 1 | Hybrid   | Tue Thu 10:50 AM |
-| CS 4423 IT Project Management    | 8 week 2 | Online   | Online           |
-| CS 4211 Computer Science Labs 🔶 | 8 week 1 | Online   | Online           |
-| Data Engineering                 | 8 week 1 | Online   | Online           |
+| Course                                                   | Term     | Delivery | Day/Time         |
+| -------------------------------------------------------- | -------- | -------- | ---------------- |
+| CS 2113 Programming 1 🆕                                 | 8 week 2 | Hybrid   | Tue Thu 9:25 AM  |
+| CS 3323 Cloud Computing                                  | 8 week 1 | Hybrid   | Tue Thu 9:25 AM  |
+| CS 4413 Systems Analysis                                 | 8 week 1 | Hybrid   | Tue Thu 10:50 AM |
+| CS 4423 IT Project Management 🔶                         | 8 week 2 | Online   | Online           |
+| CS 4211 Computer Science Labs                            | 8 week 1 | Online   | Online           |
+| Data Engineering                                         | 8 week 1 | Online   | Online           |
 | <font color="#9bbb59">CS 3102 Data Analysis & Viz</font> | —        | —        | —                |
 
 ---
