@@ -1,0 +1,36 @@
+---
+permalink: /
+eleventyExcludeFromCollections: true
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Published Pages</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <main>
+    <h1>Published Pages</h1>
+
+    <p>These are the pages currently published from my Obsidian vault.</p>
+
+    <ul>
+      {% for post in collections.note | sort(attribute="data.title") %}
+        <li>
+          <a href="{{ post.url }}">
+            {% if post.data.title %}
+              {{ post.data.title }}
+            {% else %}
+              {{ post.fileSlug }}
+            {% endif %}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </main>
+
+</body>
+</html>
