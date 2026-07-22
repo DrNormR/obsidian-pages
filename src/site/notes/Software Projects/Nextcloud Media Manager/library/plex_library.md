@@ -11,14 +11,14 @@
 | 10 | [[TV Shows\|TV Shows]] | 378 |
 | 11 | [[Other Video\|Other Video]] | 1286 |
 | 12 | [[Norman Videos\|Norman Videos]] | 411 |
-| 13 | [[NFL\|NFL]] | 31 |
-| 14 | [[MLB\|MLB]] | 279 |
-| 15 | [[NBA\|NBA]] | 38 |
-| 16 | [[NHL\|NHL]] | 54 |
-| 17 | [[College Sports\|College Sports]] | 64 |
-| 18 | [[Formula 1\|Formula 1]] | 7 |
-| 19 | [[Motorsports\|Motorsports]] | 82 |
-| 20 | [[Soccer\|Soccer]] | 8 |
+| 13 | [[Boxing Documentaries\|Boxing Documentaries]] | 31 |
+| 14 | [[Boxing\|Boxing]] | 279 |
+| 15 | [[NFL\|NFL]] | 38 |
+| 16 | [[College Football\|College Football]] | 54 |
+| 17 | [[College Basketball\|College Basketball]] | 64 |
+| 18 | [[NHL\|NHL]] | 7 |
+| 19 | [[MLB\|MLB]] | 82 |
+| 20 | [[Olympic Hockey\|Olympic Hockey]] | 8 |
 | 21 | [[History/Antiquity-Details/Music\|Music]] | 353 |
 
 ## Movies
@@ -570,7 +570,7 @@
 | 541  | Deep Impact                                                          | 1998 | Mimi Leder                              | 2h 1m   | 6.2    | Drama, Action              | PG-13     |
 | 542  | Deliverance                                                          | 1972 | John Boorman                            | 1h 49m  | 7.3    | Drama, Adventure           | R         |
 | 543  | Demolition Man                                                       | 1993 | Marco Brambilla                         | 1h 55m  | 6.8    | Action, Science Fiction    | R         |
-| 544  | Demon Slayer -Kimetsu no YaibaThe Movie: Mugen Train                 | 2020 | Haruo Sotozaki                          | 2h 0m   | 8.2    | Action, Adventure          | R         |
+| 544  | Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train               | 2020 | Haruo Sotozaki                          | 2h 0m   | 8.2    | Action, Adventure          | R         |
 | 545  | Demons                                                               | 1985 | Lamberto Bava                           | 1h 28m  | 6.6    | Horror                     | Not Rated |
 | 546  | Demons 2                                                             | 1986 | Lamberto Bava                           | 1h 31m  | 6.1    | Horror, Fantasy            | R         |
 | 547  | The Departed                                                         | 2006 | Martin Scorsese                         | 2h 31m  | 8.2    | Drama, Thriller            | R         |
@@ -2825,7 +2825,7 @@
 
 | # | Title | Year | Runtime |
 |---|-------|------|---------|
-| 1 | *Planets Song for Kids | 2015 | 3m |
+| 1 | _Planets Song for Kids | 2015 | 3m |
 | 2 | 00. Professor Bio | 2036 | 2m |
 | 3 | 01 Ancient Origins of the Celts - Ancient Civilizations DOCUMENTARY | 2021 | 22m |
 | 4 | 01 Battle of Civitate 1053 - Norman Conquest of Italy - DOCUMENTARY | 2021 | 18m |
@@ -2835,7 +2835,7 @@
 | 8 | 01 Gannibal - African Son of Peter the Great of Russia | 2021 | 18m |
 | 9 | 01 Rise of the Incan Empire | 2021 | 10m |
 | 10 | 01 Thirty Years' War - White Mountain 1620 DOCUMENTARY | 2021 | 18m |
-| 11 | 01 Vikings* Great Heathen Army - Battle of Ashdown 871 DOCUMENTARY | 2021 | 12m |
+| 11 | 01 Vikings_ Great Heathen Army - Battle of Ashdown 871 DOCUMENTARY | 2021 | 12m |
 | 12 | 01 Wars of Roses 1455-1487 - English Civil Wars DOCUMENTARY | 2021 | 53m |
 | 13 | 1-12 161 | 2024 | 48m |
 | 14 | 1-13 161 | 2024 | 53m |
@@ -3293,16 +3293,16 @@
 | 466 | Baby Signing Time Vol. 2 - Here I Go - Green | 2013 | 28m |
 | 467 | Baby Signing Time Vol. 3 - A New Day - Blue | 2013 | 30m |
 | 468 | Baby Signing Time Vol. 4 - Let's Be Friends - Purple | 2013 | 27m |
-| 469 | Baseball - Inning 01_-*1994*-*Ken Burns | 2008 | 1h 52m |
-| 470 | Baseball - Inning 02*-*1994*-*Ken burns | 2008 | 1h 44m |
-| 471 | Baseball - Inning 03*-*1994*-*Ken Burns | 2008 | 1h 57m |
-| 472 | Baseball - Inning 04*-*1994*-*Ken Burns | 2008 | 1h 54m |
-| 473 | Baseball - Inning 05*-*1994*-*Ken Burns | 2008 | 2h 3m |
-| 474 | Baseball - Inning 07*-*1994*-*Ken Burns | 2008 | 2h 11m |
-| 475 | Baseball - Inning 08*-*1994*-*Ken Burns | 2008 | 1h 53m |
-| 476 | Baseball - Inning 09*-*1994*-*Ken Burns | 2008 | 2h 25m |
-| 477 | Baseball - Inning 10a*-*2010*-*Ken Burns(1992~1999) | 2021 | 1h 56m |
-| 478 | Baseball - Inning 10b*-*2010*-*Ken Burns(1999~2009) | 2021 | 2h 1m |
+| 469 | Baseball - Inning 01_-_1994_-_Ken Burns | 2008 | 1h 52m |
+| 470 | Baseball - Inning 02_-_1994_-_Ken burns | 2008 | 1h 44m |
+| 471 | Baseball - Inning 03_-_1994_-_Ken Burns | 2008 | 1h 57m |
+| 472 | Baseball - Inning 04_-_1994_-_Ken Burns | 2008 | 1h 54m |
+| 473 | Baseball - Inning 05_-_1994_-_Ken Burns | 2008 | 2h 3m |
+| 474 | Baseball - Inning 07_-_1994_-_Ken Burns | 2008 | 2h 11m |
+| 475 | Baseball - Inning 08_-_1994_-_Ken Burns | 2008 | 1h 53m |
+| 476 | Baseball - Inning 09_-_1994_-_Ken Burns | 2008 | 2h 25m |
+| 477 | Baseball - Inning 10a_-_2010_-_Ken Burns(1992~1999) | 2021 | 1h 56m |
+| 478 | Baseball - Inning 10b_-_2010_-_Ken Burns(1999~2009) | 2021 | 2h 1m |
 | 479 | Basis and Dimension | 2024 | 8m |
 | 480 | BBC.Operation.Mincemeat.PDTV.x264.AAC.MVGroup.org | 2011 | 58m |
 | 481 | Beauty and the Beast - Be Our Guest | 2014 | 3m |
@@ -3318,7 +3318,7 @@
 | 491 | Black Box and Glass Box Testing | 2024 | 2m |
 | 492 | Black Eyed Peas - Shut Up | 2016 | 4m |
 | 493 | BlackHawk - I'm Not Strong Enough to Say No (Official Video) | 2021 | 4m |
-| 494 | Blip_Standard_Player*-*RedLetterMedia_Revenge_of_Nadine_The* | 1970 | 19m |
+| 494 | Blip_Standard_Player_-_RedLetterMedia_Revenge_of_Nadine_The_ | 1970 | 19m |
 | 495 | Boxing 101 complete turorial | 2023 | 52m |
 | 496 | Boxing for beginners _ Training techniques Episode 1 _ Mike Rashid | 2020 | 13m |
 | 497 | BoyInThePlasticBubble | 2024 | 1h 33m |
@@ -3341,13 +3341,13 @@
 | 514 | Christmas Slideshow 1 | 2018 | 41m |
 | 515 | Christmas Slideshow 2 | 2018 | 1h 6m |
 | 516 | Cinderella - A Dream is a Wish Your Heart Makes | 2014 | 3m |
-| 517 | Civil War, The - Episode 2_-*1990*-*Ken Burns | 2008 | 1h 7m |
-| 518 | Civil War, The - Episode 3*-*1990*-*Ken Burns | 2008 | 1h 1m |
-| 519 | Civil War, The - Episode 4*-*1990*-*Ken Burns | 2008 | 1h 35m |
-| 520 | Civil War, The - Episode 6*-*1990*-*Ken Burns | 2008 | 1h 9m |
-| 521 | Civil War, The - Episode 7*-*1990*-*Ken Burns | 2008 | 1h 11m |
-| 522 | Civil War, The - Episode 8*-*1990*-*Ken Burns | 2008 | 1h 8m |
-| 523 | Civil War, The - Episode 9*-*1990*-*Ken Burns | 2008 | 1h 8m |
+| 517 | Civil War, The - Episode 2_-_1990_-_Ken Burns | 2008 | 1h 7m |
+| 518 | Civil War, The - Episode 3_-_1990_-_Ken Burns | 2008 | 1h 1m |
+| 519 | Civil War, The - Episode 4_-_1990_-_Ken Burns | 2008 | 1h 35m |
+| 520 | Civil War, The - Episode 6_-_1990_-_Ken Burns | 2008 | 1h 9m |
+| 521 | Civil War, The - Episode 7_-_1990_-_Ken Burns | 2008 | 1h 11m |
+| 522 | Civil War, The - Episode 8_-_1990_-_Ken Burns | 2008 | 1h 8m |
+| 523 | Civil War, The - Episode 9_-_1990_-_Ken Burns | 2008 | 1h 8m |
 | 524 | Clark And Michael | 2021 | 11m |
 | 525 | Clark And Michael2 | 2021 | 7m |
 | 526 | Clark And Michael3 | 2021 | 9m |
@@ -3449,7 +3449,7 @@
 | 622 | Exploring Our Solar System | 2015 | 11m |
 | 623 | Fergie - Big Girls Don't Cry | 2016 | 5m |
 | 624 | Final Exam Problem Solving | 2024 | 12m |
-| 625 | First Grade* Fun With Phonics Day 1-QD16zVltizQ | 2021 | 21m |
+| 625 | First Grade_ Fun With Phonics Day 1-QD16zVltizQ | 2021 | 21m |
 | 626 | First Grade_ Fun With Phonics Day 2-btg07KwNd_o | 2021 | 22m |
 | 627 | First Grade_ Fun With Phonics Day 3-E9EXufW7ieY | 2021 | 19m |
 | 628 | Five Creepy Spiders - Halloween Song - Super Simple Songs | 2016 | 2m |
@@ -3703,8 +3703,8 @@
 | 876 | Jo Dee Messina - Heads Carolina, Tails California (Official Music Video) | 2021 | 3m |
 | 877 | John Anderson  Wish I Could Have Been There | 2021 | 3m |
 | 878 | John Anderson - Straight Tequila Night | 2021 | 2m |
-| 879 | John Michael Montgomery - *I Love The Way You Love Me* (Official Music Video) | 2021 | 4m |
-| 880 | John Michael Montgomery - *Life's A Dance* (Official Music Video) | 2021 | 3m |
+| 879 | John Michael Montgomery - _I Love The Way You Love Me_ (Official Music Video) | 2021 | 4m |
+| 880 | John Michael Montgomery - _Life's A Dance_ (Official Music Video) | 2021 | 3m |
 | 881 | John Michael Montgomery - I Can Love You Like That (Official Music Video) | 2021 | 3m |
 | 882 | John Michael Montgomery - I Swear (Official Music Video) | 2021 | 4m |
 | 883 | John Michael Montgomery - Sold (The Grundy County Auction Incident) (Official Music Video) | 2021 | 3m |
@@ -3949,9 +3949,9 @@
 | 1122 | Pseudoinverses | 2024 | 14m |
 | 1123 | Python vs. Math | 2024 | 1m |
 | 1124 | The Rainbow Colors Song2 | 2021 | 1m |
-| 1125 | Ray Stevens - *The Ballad of the Blue Cyclone (The Beginning) | 2024 | 3m |
-| 1126 | Ray Stevens - *The Ballad of the Blue Cyclone (The End) | 2024 | 4m |
-| 1127 | Ray Stevens - *The Mississippi Squirrel Revival* | 2024 | 3m |
+| 1125 | Ray Stevens - _The Ballad of the Blue Cyclone (The Beginning) | 2024 | 3m |
+| 1126 | Ray Stevens - _The Ballad of the Blue Cyclone (The End) | 2024 | 4m |
+| 1127 | Ray Stevens - _The Mississippi Squirrel Revival_ | 2024 | 3m |
 | 1128 | Ray Stevens - It's Me Again, Margaret | 2021 | 4m |
 | 1129 | Ray Stevens - Sittin' Up With The Dead | 2021 | 4m |
 | 1130 | Ray Stevens - The Streak | 2021 | 4m |
@@ -4002,8 +4002,8 @@
 | 1175 | Shakespeare's Henry IV Part I. Michael Cronin, English Shakespeare Company, 1990 | 2023 | 2h 51m |
 | 1176 | Shakespeare's Henry IV Part I. Michael Cronin, English Shakespeare Company, 1990_6 | 2023 | 2h 31m |
 | 1177 | Shakespeare's Henry V. Michael Pennington, English Shakespeare Company, 1990 | 2023 | 2h 54m |
-| 1178 | Shakespeare's Henry VI* House of Lancaster. Paul Brennen, English Shakespeare Company, 1990 | 2023 | 2h 25m |
-| 1179 | Shakespeare's Henry VI* House of York. Paul Brennan, English Shakespeare Company, 1990 | 2023 | 2h 41m |
+| 1178 | Shakespeare's Henry VI_ House of Lancaster. Paul Brennen, English Shakespeare Company, 1990 | 2023 | 2h 25m |
+| 1179 | Shakespeare's Henry VI_ House of York. Paul Brennan, English Shakespeare Company, 1990 | 2023 | 2h 41m |
 | 1180 | Shakespeare's King Lear. James Earl Jones, NYC Shakespeare Festival, 1974 | 2023 | 2h 55m |
 | 1181 | Shakespeare's Richard II. Michael Pennington, English Shakespeare Company, 1990 | 2023 | 2h 25m |
 | 1182 | Shakespeare's Richard III. Andrew Jarvis, English Shakespeare Company, 1990 | 2023 | 3h 27m |
@@ -4096,16 +4096,16 @@
 | 1269 | Vince Gill - One More Last Chance | 2021 | 3m |
 | 1270 | Walking In The Jungle - Super Simple Songs | 2016 | 3m |
 | 1271 | Walt Disney Cartoons   Mickey Mouse   Haunted House Halloween mickey mouse | 2014 | 6m |
-| 1272 | War, The - Episode 1_-*2007*-*Ken Burns | 2008 | 2h 22m |
-| 1273 | War, The - Episode 2*-*2007*-*Ken Burns | 2008 | 1h 54m |
-| 1274 | War, The - Episode 3*-*2007*-*Ken Burns | 2008 | 1h 50m |
-| 1275 | War, The - Episode 4*-*2007*-*Ken Burns | 2008 | 1h 17m |
-| 1276 | War, The - Episode 5*-*2007*-*Ken Burns | 2008 | 58m |
-| 1277 | War, The - Episode 6*-*2007*-*Ken Burns | 2008 | 2h 4m |
-| 1278 | War, The - Episode 7*-*2007*-*Ken Burns | 2008 | 1h 56m |
-| 1279 | War, The - Episode 8*-*2007*-*Ken Burns | 2008 | 1h 8m |
-| 1280 | War, The - Episode 9*-*2007*-*Ken Burns | 2008 | 55m |
-| 1281 | War, The - Interviews*-*2007*-_Ken Burns | 2008 | 55m |
+| 1272 | War, The - Episode 1_-_2007_-_Ken Burns | 2008 | 2h 22m |
+| 1273 | War, The - Episode 2_-_2007_-_Ken Burns | 2008 | 1h 54m |
+| 1274 | War, The - Episode 3_-_2007_-_Ken Burns | 2008 | 1h 50m |
+| 1275 | War, The - Episode 4_-_2007_-_Ken Burns | 2008 | 1h 17m |
+| 1276 | War, The - Episode 5_-_2007_-_Ken Burns | 2008 | 58m |
+| 1277 | War, The - Episode 6_-_2007_-_Ken Burns | 2008 | 2h 4m |
+| 1278 | War, The - Episode 7_-_2007_-_Ken Burns | 2008 | 1h 56m |
+| 1279 | War, The - Episode 8_-_2007_-_Ken Burns | 2008 | 1h 8m |
+| 1280 | War, The - Episode 9_-_2007_-_Ken Burns | 2008 | 55m |
+| 1281 | War, The - Interviews_-_2007_-_Ken Burns | 2008 | 55m |
 | 1282 | WeDiscoverThedictionary | 2021 | 10m |
 | 1283 | What is Computer Programming | 2016 | 1m |
 | 1284 | What's the Time - edit | 2015 | 1m |
@@ -4119,7 +4119,7 @@
 | # | Title | Year | Runtime |
 |---|-------|------|---------|
 | 1 | _Home Movies For Jess 2014 | 2014 | 1h 6m |
-| 2 | *Home Movies For Jess 2014 | 2022 | 1h 7m |
+| 2 | _Home Movies For Jess 2014 | 2022 | 1h 7m |
 | 3 | 1999 - Christmas at Grannys (short) | 2025 | 0m |
 | 4 | 1999 At home with Mom and Jess | 2025 | 0m |
 | 5 | 1999 Welcome to your Life | 2025 | 1m |
@@ -4255,7 +4255,7 @@
 | 135 | 2013-07 July | 2022 | 22m |
 | 136 | 2013-08 - Destin Beach Vacation | 2022 | 7m |
 | 137 | 2013-08 August | 2022 | 22m |
-| 138 | 2013-08-15 13-12-24 01 Clarago down to the beach for a little bit | 2013 | 0m |
+| 138 | 2013-08-15 13-12-24 01 Clara- go down to the beach for a little bit | 2013 | 0m |
 | 139 | 2013-08-15 Go down to the beach for a little bit | 2018 | 0m |
 | 140 | 2013-09 - Callaway Gardens Vacation | 2022 | 7m |
 | 141 | 2013-09 - Russells Fourth Birthday Party | 2022 | 3m |
@@ -4479,7 +4479,7 @@
 | 359 | 2020-11 November | 2021 | 9m |
 | 360 | 2020-12 - Clara's Tenth Birthday Party | 2022 | 9m |
 | 361 | 2020-12 Christmas 2020 | 2022 | 15m |
-| 362 | 2020-12 December* | 2021 | 46m |
+| 362 | 2020-12 December_ | 2021 | 46m |
 | 363 | 2021-01 January | 2022 | 9m |
 | 364 | 2021-02 - Malcolms Seventh Birthday Party | 2022 | 3m |
 | 365 | 2021-02 February | 2022 | 13m |
@@ -4530,7 +4530,7 @@
 | 410 | Somewhere in my memory - John Williams (Home alone soundtrack) | 2025 | 3m |
 | 411 | Tyson Fury vs. Oleksander Usyk II - 2024-12-21 | 2025 | 41m |
 
-## NFL
+## Boxing Documentaries
 
 **Total: 31**
 
@@ -4552,7 +4552,7 @@
 | 14 | HBO's Legendary Nights_ The Tale of Mike Tyson vs Buster Douglas 480p HQ | 2023 | 24m |
 | 15 | HBO's Legendary Nights_ The Tale of Oscar De La Hoya vs Felix 'Tito' Trinidad 480p HQ | 2022 | 24m |
 | 16 | HBO's Legendary Nights_ The Tale of Ray Leonard vs Thomas Hearns 480p HQ | 2023 | 20m |
-| 17 | Julian Jackson - 46-1 - 43 KO's - Unbreakable Knockout Record | 2023 | 26m |
+| 17 | Julian Jackson - 46-1 - 43 KO’s - Unbreakable Knockout Record | 2023 | 26m |
 | 18 | Larry Holmes - 48-0 - Most Underrated Champion_ (Original Documentary) | 2023 | 42m |
 | 19 | Lennox Lewis - The Lion (Impossible Skills _ Somehow Still Underrated) | 2022 | 45m |
 | 20 | Manny Pacquiao - PacMan (The Impossible Underdog Story) | 2023 | 42m |
@@ -4565,10 +4565,10 @@
 | 27 | Saul Alvarez - Canelo (Extended Documentary) | 2021 | 29m |
 | 28 | 'Smokin' Joe Frazier - Impossibly Powerful Left Hook -  (The Man Who Beat ALI) | 2023 | 44m |
 | 29 | Sugar Ray Robinson - 128-1 - P4P The Greatest (Original Documentary) | 2023 | 32m |
-| 30 | Thomas Hearns - The Hitman -(IMPOSSIBLY Insane KO's) | 2022 | 29m |
+| 30 | Thomas Hearns - The Hitman -(IMPOSSIBLY Insane KO’s) | 2022 | 29m |
 | 31 | Vasyl Lomachenko - The Matrix (Original Bored Film Documentary) | 2022 | 28m |
 
-## MLB
+## Boxing
 
 **Total: 279**
 
@@ -4854,7 +4854,7 @@
 | 278 | Wladimir Klitschko vs. Ray Mercer - 2002-06-29 | 2025 | 41m |
 | 279 | Zhilei Zhang vs. Deontay Wilder - 2024-06-01 | 2024 | 31m |
 
-## NBA
+## NFL
 
 **Total: 38**
 
@@ -4899,7 +4899,7 @@
 | 37 | Super Bowl 57 - 2023 - Kansas City Chiefs vs. Philadelphia Eagles | 2026 | 2h 9m |
 | 38 | Super Bowl 58 - 2024 - Kansas City Chiefs vs. San Francisco 49ers | 2026 | 2h 35m |
 
-## NHL
+## College Football
 
 **Total: 54**
 
@@ -4960,7 +4960,7 @@
 | 53 | College Football - 2026 - Georgia vs. Ole Miss (CFP Quarterfinal  Sugar Bowl) | 2026 | 1h 28m |
 | 54 | College Football - 2026 - Miami vs. Ole Miss (CFP Semifinal) | 2026 | 3h 8m |
 
-## College Sports
+## College Basketball
 
 **Total: 64**
 
@@ -5031,7 +5031,7 @@
 | 63 | College Basketball - 2024-03-22 - Colorado vs. Florida (NCAA Tournament Round of 64) | 2026 | 1h 33m |
 | 64 | College Basketball - 2025-03-20 - Arkansas vs. Kansas (NCAA Tournament Round of 64) | 2026 | 1h 27m |
 
-## Formula 1
+## NHL
 
 **Total: 7**
 
@@ -5045,7 +5045,7 @@
 | 6 | NHL - 2013 - Detroit Red Wings vs. Chicago Blackhawks (Western Conference Semifinals - Game 7) |  | 1h 55m |
 | 7 | NHL - 2014 - Los Angeles Kings vs. Chicago Blackhawks (Western Conference Final - Game 7) |  | 2h 3m |
 
-## Motorsports
+## MLB
 
 **Total: 82**
 
@@ -5134,7 +5134,7 @@
 | 81 | MLB - 2025-10-27 - Toronto Blue Jays at Los Angeles Dodgers (World Series Game 3) | 2026 | 5h 20m |
 | 82 | MLB - 2025-11-01 - Los Angeles Dodgers at Toronto Blue Jays (World Series Game 7) | 2026 | 3h 32m |
 
-## Soccer
+## Olympic Hockey
 
 **Total: 8**
 
@@ -5211,7 +5211,7 @@
 | 54 | Charley Pride |  |  | Country |
 | 55 | Cheap Trick |  |  | Pop/Rock |
 | 56 | The Chicks |  |  | Country, Pop/Rock |
-| 57 | Choir of King's College, Cambridge |  |  | Classical, Holiday |
+| 57 | Choir of King’s College, Cambridge |  |  | Classical, Holiday |
 | 58 | Christopher Young |  |  | Stage & Screen, Classical |
 | 59 | Chuck Berry |  |  | Pop/Rock, R&B |
 | 60 | Cliff Martinez |  |  | Pop/Rock, Stage & Screen |
@@ -5282,7 +5282,7 @@
 | 125 | Grand Funk Railroad |  |  | Pop/Rock |
 | 126 | Gregory Alan Isakov |  |  | Pop/Rock |
 | 127 | Grizzly Bear |  |  | Pop/Rock |
-| 128 | Guns N' Roses |  |  | Pop/Rock |
+| 128 | Guns N’ Roses |  |  | Pop/Rock |
 | 129 | H. P. Lovecraft |  |  | Comedy/Spoken |
 | 130 | Håkan Glänte |  |  |  |
 | 131 | The Handsome Family |  |  | Pop/Rock, Folk |
