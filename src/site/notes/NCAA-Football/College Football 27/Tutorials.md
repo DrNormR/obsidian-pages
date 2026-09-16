@@ -38,6 +38,19 @@
 	- not recommended
 
 # Good Plays
+General
+
+- - Running
+    - I-Form stretch
+    - Power I Tight (WVU pb)
+        - HB Toss
+- RPO
+    - RPO bubble out of trips
+    - RPO flat
+
+## The ONLY 6 Plays You Need To Beat ANY Defense in College Football 27!
+
+[](https://www.youtube.com/@goatedmillz)
 https://youtu.be/2zTYV-CgnVE
 
 ![Pasted image 20260916131706.png|422](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916131706.png)
@@ -49,7 +62,7 @@ https://youtu.be/2zTYV-CgnVE
 Return X Post
 ![Pasted image 20260916132112.png|314](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132112.png)
 - Put bunch on wide side of the field
-- First read is RB, 2nd is TE, 3rd is 		
+- First read is RB, 2nd is TE, 3rd is O		
 
 Motion Smash H Trail
 ![Pasted image 20260916132326.png|315](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132326.png)
@@ -92,11 +105,24 @@ Dagger
 
 ![Pasted image 20260916133327.png|377](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916133327.png)
 
-General
-- - Running
-	- I-Form stretch
-	- Power I Tight (WVU pb)
-		- HB Toss
-- RPO
-	- RPO bubble out of trips
-	- RPO flat
+## This CFB 27 Offense Feels Like Cheating 🤯
+
+[](https://www.youtube.com/@WinCollegeFootball)
+https://youtu.be/41vshIW1OS0
+
+![Pasted image 20260916181438.png](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916181438.png)
+- just amazing run play up the middle
+
+![Pasted image 20260916181647.png](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916181647.png)
+- use Miami package to sub out the TE for a WR
+	- X receiver: fade
+	- Y receiver: streak
+	- B receiver: deep cross
+- first read: Y; second read X; third read A
+
+![Pasted image 20260916182103.png](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916182103.png)
+- hot routes
+	- A: streak
+	- B: slant
+	- Y: out
+- first read: R1, second read A, third read B
