@@ -56,7 +56,7 @@ https://youtu.be/2zTYV-CgnVE
 ![Pasted image 20260916131706.png|422](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916131706.png)
 
 # Specific
-## <u>Bunch Formation</u>
+## <u>Gun Bunch Formation</u>
 ![Pasted image 20260916133839.png|328](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916133839.png)
 
 Return X Post
@@ -64,6 +64,7 @@ Return X Post
 - Put bunch on wide side of the field
 - First read is RB, 2nd is TE, 3rd is O		
 
+## Gun Bunch TE Str Formation
 Motion Smash H Trail
 ![Pasted image 20260916132326.png|315](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132326.png)
 - Click R trigger to flip the play
@@ -71,7 +72,7 @@ Motion Smash H Trail
 	- This clears out any zones
 - 1st read: X drag, 2nd read is square
 
-## <u>Deuce Close Formation</u>
+## <u>Pistol Deuce Close Formation</u>
 ![Pasted image 20260916132553.png|340](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132553.png)
 
 HB Stretch
@@ -79,7 +80,7 @@ HB Stretch
 - amazing against man coverage
 - against zone, switch to HB Dive
 
-## <u>Y Off Trips</u>
+## <u>Gun Y Off Trips</u>
 ![Pasted image 20260916132918.png|382](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132918.png)
 
 RPO Read Y Flat
@@ -96,17 +97,18 @@ Dagger
 	- TE post (R stick right), RB streak (R stick up)
 	- First read: O receiver drag, 2nd read: TE post X, 3rd RB triangle
 
-
-![Pasted image 20260916132020.png|408](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132020.png)
-
-![Pasted image 20260916132646.png|403](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132646.png)
-
-![Pasted image 20260916132936.png|396](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132936.png)
-
-![Pasted image 20260916133327.png|377](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916133327.png)
+> [!note]- Playbooks that have them
+> 
+> ![Pasted image 20260916132020.png|408](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132020.png)
+> 
+> ![Pasted image 20260916132646.png|403](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132646.png)
+> 
+> ![Pasted image 20260916132936.png|396](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916132936.png)
+> 
+> ![Pasted image 20260916133327.png|377](/img/user/NCAA-Football/College%20Football%2027/~media/Pasted%20image%2020260916133327.png)
+> 
 
 ## This CFB 27 Offense Feels Like Cheating 🤯
-
 [](https://www.youtube.com/@WinCollegeFootball)
 https://youtu.be/41vshIW1OS0
 
